@@ -11,7 +11,7 @@ My beautiful and responsive portfolio, with my porjects and a few things about m
 
 ## Installation
 
-Access the website - https://queenozzz.github.io/OIBSIP-Level1-Task2/
+Access the website - https://queenozzz.github.io/My-portfoloio/
 
 
 
